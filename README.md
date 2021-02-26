@@ -59,5 +59,5 @@ You can change the prefix every time in your `config.json` file.
 
 ## Contact
 
-rayz#4986 - rayzdev@gmail.com
+rayz#4986 - raayzdev@gmail.com
 
