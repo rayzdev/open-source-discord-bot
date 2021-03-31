@@ -57,7 +57,8 @@ You can change the prefix every time in your `config.json` file.
 
 
 
-## Contact
+## Support
 
 rayz#4986 - raayzdev@gmail.com
+[discord.gg/HTe98XwJ95](https://discord.gg/HTe98XwJ95)
 
